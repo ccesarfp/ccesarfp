@@ -1,9 +1,5 @@
 ## Olá! Eu sou o Caio Padilha
 
-- 🌱 Estou estudando JavaScript
-- 📫 Contate-me pelo e-mail: ccfpadilha@hotmail.com
-- 😄 Pronouns: Ele/Dele
-
 <div>
   <a href="https://github.com/ccesarfp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccesarfp&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
@@ -20,6 +16,8 @@
 <div> 
   <br>
   <a href="https://www.linkedin.com/in/caio-padilha-ba8536210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/ccesarfp/)
 </div>
+
+- 🌱 Estou estudando JavaScript
+- 📫 Contate-me pelo e-mail: ccfpadilha@hotmail.com
+- 😄 Pronouns: Ele/Dele
