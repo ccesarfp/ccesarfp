@@ -2,7 +2,6 @@
 
 - 🌱 Estou estudando JavaScript
 - 📫 Contate-me pelo e-mail: ccfpadilha@hotmail.com
-- 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://github.com/ccesarfp">
